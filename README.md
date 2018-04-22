@@ -3,7 +3,7 @@ Welcome to the Blockchain developers course.
 
 ### Installation
 During the first half of the course we'll work mostly with Python 3.6.
-We we'll need to add the package `ecdsa` to our environemnt.
+We'll need to add the package `ecdsa` to our environemnt.
 
 This repository cointains a Pipefile with `ecdsa`, `python 3.6` and `jupyer`.
 
